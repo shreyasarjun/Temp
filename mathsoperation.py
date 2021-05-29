@@ -4,3 +4,4 @@ c=a*b
 print("Result:",c)
 print("Samosa")
 print("Pizza")
+print("Burger")
